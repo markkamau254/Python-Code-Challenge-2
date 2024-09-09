@@ -1,21 +1,23 @@
-#**Coffee Shop Domain OOP Assignment**
-Overview
+#*Coffee Shop Domain OOP Assignment*
+
+##Overview
 This assignment evaluates your understanding of Object-Oriented Programming (OOP) principles using Python. You will work with a Coffee Shop domain where there are three models: Customer, Coffee, and Order. Your task is to implement the relationships between these classes and define methods to manage and manipulate their attributes.
 
-Domain Details
+###*Domain Details*
 Customer has many orders.
 Coffee has many orders.
 Order belongs to both a Customer and a Coffee.
 Coffee and Customer share a many-to-many relationship via Order.
-Repository Setup
-1. Clone the Repository
+
+##Repository Setup
+1. *Clone the Repository*
 To get started with the project, clone the repository to your local machine:
 
 bash
 Copy code
 git clone <your-repo-url>
 cd <your-repo-folder>
-2. Create and Activate Virtual Environment
+2. *Create and Activate Virtual Environment*
 Create a virtual environment to manage project dependencies:
 
 bash
@@ -29,13 +31,13 @@ source venv/bin/activate
 
 ## For Windows
 venv\Scripts\activate
-3. Install Dependencies
+3. *Install Dependencies*
 If there are any dependencies, install them using pip:
 
 bash
 Copy code
 pip install -r requirements.txt
-4. Running the Application
+4. *Running the Application*
 To run the application, navigate to the project directory and execute the following command:
 
 bash
