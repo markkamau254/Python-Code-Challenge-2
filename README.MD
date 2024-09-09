@@ -1,15 +1,15 @@
-#*Coffee Shop Domain OOP Assignment*
+# *Coffee Shop Domain OOP Assignment*
 
-##Overview
+## Overview
 This assignment evaluates your understanding of Object-Oriented Programming (OOP) principles using Python. You will work with a Coffee Shop domain where there are three models: Customer, Coffee, and Order. Your task is to implement the relationships between these classes and define methods to manage and manipulate their attributes.
 
-###*Domain Details*
+### *Domain Details*
 Customer has many orders.
 Coffee has many orders.
 Order belongs to both a Customer and a Coffee.
 Coffee and Customer share a many-to-many relationship via Order.
 
-##Repository Setup
+## Repository Setup
 1. *Clone the Repository*
 To get started with the project, clone the repository to your local machine:
 
