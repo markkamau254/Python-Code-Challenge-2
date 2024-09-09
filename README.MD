@@ -10,7 +10,7 @@ This assignment evaluates your understanding of Object-Oriented Programming (OOP
 - Coffee and Customer share a many-to-many relationship via Order.
 
 ## Repository Setup
-1. Clone the Repository
+1.  Clone the Repository.
 To get started with the project, clone the repository to your local machine:
 
 bash
@@ -19,6 +19,7 @@ git clone <your-repo-url>
 cd <your-repo-folder>
 2. Create and Activate Virtual Environment
 Create a virtual environment to manage project dependencies:
+  
 
 bash
 Copy code
