@@ -17,7 +17,7 @@ bash
 Copy code
 git clone <your-repo-url>
 cd <your-repo-folder>
-2. Create and Activate Virtual Environment
+2.  Create and Activate Virtual Environment.
 Create a virtual environment to manage project dependencies:
   
 
@@ -32,13 +32,13 @@ source venv/bin/activate
 
 ## For Windows
 venv\Scripts\activate
-3. Install Dependencies
+3.  Install Dependencies.
 If there are any dependencies, install them using pip:
 
 bash
 Copy code
 pip install -r requirements.txt
-4. Running the Application
+4.  Running the Application.
 To run the application, navigate to the project directory and execute the following command:
 
 bash
